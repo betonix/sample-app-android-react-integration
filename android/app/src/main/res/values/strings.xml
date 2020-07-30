@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SellingCartSampleApp</string>
+    <string name="call_react_native_button">Chama o React</string>
+</resources>
